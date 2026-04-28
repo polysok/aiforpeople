@@ -1,0 +1,49 @@
+# L'illusion de la productivité : quand l'IA répète les erreurs de la surconsommation occidentale
+
+
+Je travaille au cœur de l'intelligence artificielle, dans un monde où chaque jour, des équipes s'affairent à créer des modèles de plus en plus complexes. Or, malgré les promesses de révolution, je constate un phénomène alarmant : la surconsommation numérique reproduit le schéma observé dans les sociétés occidentales depuis les années 70 — mais cette fois, au cœur des algorithmes.
+
+En octobre 1973, l'embargo pétrolier décrété par les pays arabes membres de l'OPAEP a frappé le monde occidental. En représailles au soutien américain à Israël pendant la guerre du Kippour, l'Arabie Saoudite, sous l'impulsion du roi Faisal, a coupé ses livraisons aux États-Unis et à plusieurs pays européens [^1]. Les conséquences sont connues : le prix du baril a quadruplé en quelques mois, passant d'environ **2,90 $ avant l'embargo à 11,65 $ en janvier 1974** [^2]. Les économies développées, devenues dépendantes d'un pétrole bon marché, ont été contraintes à des mesures d'austérité énergétique brutales — rationnement, limitations de vitesse, files d'attente aux stations-service.
+
+Ce choc n'était pas un simple coup d'arrêt : c'était la sanction d'une consommation que personne n'avait pensée comme finie. Aujourd'hui, dans l'IA, la même logique s'exprime sous une forme moderne : la course au modèle le plus « intelligent », coûteux et inutilement gigantesque. Sous l'autel de la productivité, les coûts énergétiques et les conséquences sociales passent au second plan.
+
+Le piège est identique : priorité à l'innovation rapide, à la pression des investisseurs, au prestige de la taille. Des entreprises dépensent des milliards pour des modèles aux centaines de milliards de paramètres. L'entraînement d'un seul GPT-3 (175 milliards de paramètres) a consommé environ **1 287 MWh d'électricité, soit l'équivalent de la consommation annuelle d'environ 120 foyers américains** [^3]. Un chiffre qui paraît mesuré rapporté à un seul foyer, mais qui prend une autre dimension quand on le multiplie par les centaines de modèles entraînés et réentraînés chaque année dans l'industrie.
+
+L'impact carbone est tout aussi documenté. L'étude pionnière d'Emma Strubell et de ses collègues à l'Université du Massachusetts à Amherst (2019) a montré que l'entraînement d'un seul modèle NLP de grande taille (type BERT) pouvait émettre **plus de 626 000 livres (≈ 284 tonnes) de CO₂eq, soit environ cinq fois les émissions de toute la durée de vie d'une voiture américaine moyenne, fabrication incluse** [^4]. Pour GPT-3, l'estimation grimpe à **502 tonnes de CO₂eq, équivalent à conduire environ 112 voitures à essence pendant un an** [^5]. Et ces chiffres ne couvrent qu'**un seul** entraînement final — alors que dans la pratique, des milliers de variantes sont entraînées au cours du développement [^4].
+
+À l'échelle des hyperscalers, les ordres de grandeur deviennent vertigineux. Selon le rapport environnemental 2024 de Google, **les datacenters de l'entreprise ont consommé 24 TWh d'électricité en 2023** — soit environ 65 millions de kWh par jour, ou 7 à 10 % de la consommation mondiale estimée des datacenters [^6]. La consommation électrique de ces datacenters a crû de **17 % sur la seule année 2023**, et les émissions totales de Google de **48 % entre 2019 et 2023**, malgré une politique d'achat d'énergie renouvelable affichée comme totale [^6][^7]. Microsoft, de son côté, reconnaît une **hausse de 29 % de ses émissions depuis 2020**, attribuée à la construction de datacenters optimisés pour les charges IA [^8]. Tout cela, dans un contexte où le monde est censé se réveiller au dérèglement climatique.
+
+Pourquoi cet aveuglement ? Parce qu'une partie significative de l'industrie technologique a fermé les yeux sur un sujet pourtant critique : l'impact de l'IA sur l'environnement et la société. Les datacenters mondiaux consommaient environ 240 à 340 TWh par an en 2022, soit 1 à 1,3 % de la demande électrique mondiale finale [^6][^9]. L'AIE (Agence internationale de l'énergie) projette un quasi-doublement à l'horizon 2030, et certaines estimations chiffrent à 85–134 TWh par an la demande spécifiquement liée à l'IA d'ici 2027 — l'équivalent, dans le haut de la fourchette, de la consommation électrique d'un pays comme les Pays-Bas [^10].
+
+Enfermés dans une culture de l'innovation sans limites, beaucoup d'acteurs sont hypnotisés par la promesse du futur « techno-utopique », oubliant que la surconsommation numérique n'est pas un accident. Elle reflète la même mentalité qui a conduit à la crise pétrolière de 1973 : la conviction que le progrès est synonyme de consommation, sans conscience aiguë de ses conséquences.
+
+Et pourtant, le temps de réfléchir est venu. L'IA n'est pas une technologie neutre : elle transforme nos données en ressources et notre attention en produit, en s'appuyant sur une infrastructure physique massive. Si nous ne changeons pas cette vision, nous risquons de reproduire le même scénario : un système qui produit des « gains » immédiats, mais dont les coûts sont reportés sur la planète et la société.
+
+Il est temps de redéfinir le rapport à l'IA. Pas en réduisant le potentiel de cette technologie, mais en questionnant les priorités qui la guident. Des modèles plus petits, des architectures plus efficientes, des datacenters réellement adossés à des énergies bas-carbone, des partenariats avec les communautés locales — c'est possible et déjà documenté. Le modèle BLOOM (176 milliards de paramètres), entraîné sur un supercalculateur français alimenté principalement à l'énergie nucléaire, n'a généré que **25 tonnes de CO₂eq, contre 502 pour GPT-3** [^5]. La preuve qu'à taille comparable, le facteur déterminant n'est pas la performance, mais la sobriété des choix.
+
+Car le véritable défi de l'IA n'est pas de construire des modèles toujours plus intelligents. C'est d'en faire une force qui sert l'humanité, et non une force qui la consomme. Si, comme dans les années 1970, on laisse les conséquences de cette surconsommation s'accumuler, il sera trop tard pour les corriger.
+
+
+---
+
+## Sources
+
+[^1]: U.S. Department of State, Office of the Historian, "Oil Embargo, 1973–1974". https://history.state.gov/milestones/1969-1976/oil-embargo
+
+[^2]: Federal Reserve History, "Oil Shock of 1973-74", 22 nov. 2013. https://www.federalreservehistory.org/essays/oil-shock-of-1973-74
+
+[^3]: Patterson, D. et al., *"Carbon Emissions and Large Neural Network Training"*, arXiv:2104.10350 (2021) — chiffre repris notamment par l'University of Michigan, "Optimization could cut the carbon footprint of AI training by up to 75%" (2023). https://news.umich.edu/optimization-could-cut-the-carbon-footprint-of-ai-training-by-up-to-75/
+
+[^4]: Strubell, E., Ganesh, A. & McCallum, A., *"Energy and Policy Considerations for Deep Learning in NLP"*, ACL 2019, arXiv:1906.02243. https://arxiv.org/abs/1906.02243 — Synthèse vulgarisée : MIT Technology Review, juin 2019. https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/
+
+[^5]: Columbia Climate School, "AI's Growing Carbon Footprint", juin 2023. https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/
+
+[^6]: Google, *2024 Environmental Report* — synthèse par Data Center Dynamics, "Google emissions jump 48% in five years due to AI data center boom". https://www.datacenterdynamics.com/en/news/google-emissions-jump-48-in-five-years-due-to-ai-data-center-boom/
+
+[^7]: Bloomberg, "Google's Emissions Shot Up 48% Over Five Years Due to AI", 2 juillet 2024. https://www.bloomberg.com/news/articles/2024-07-02/google-s-emissions-shot-up-48-over-five-years-due-to-ai
+
+[^8]: NPR, "AI brings soaring emissions for Google and Microsoft", 12 juillet 2024. https://www.npr.org/2024/07/12/g-s1-9545/ai-brings-soaring-emissions-for-google-and-microsoft-a-major-contributor-to-climate-change
+
+[^9]: IEA (International Energy Agency), estimations 2022 reprises dans Mytton, D., "How much energy do data centers use?", 2025. https://davidmytton.blog/how-much-energy-do-data-centers-use/
+
+[^10]: De Vries, A., *"The growing energy footprint of artificial intelligence"*, Joule (2023) — cité dans le dépôt SEC PX14A6G de Meta Platforms. https://www.sec.gov/Archives/edgar/data/0001326801/000121465924008490/e57241px14a6g.htm
